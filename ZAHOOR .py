@@ -1,2 +1,2 @@
-from ZR import loginkey
-loginkey() 
+from ZR import menu
+menu() 
