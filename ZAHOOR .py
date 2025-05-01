@@ -1,2 +1,2 @@
-from ZR import zahoor
-zahoor() 
+from ZR import menu
+menu() 
